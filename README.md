@@ -11,13 +11,14 @@ El objetivo es encontrar en un rango de fechas los contratos pertenecientes a ca
 
 ### Ejecución del proyecto
 En la terminal de VS Code ingresar a la carpeta del backend y ejecutar el siguiente comando
-yarn start
+
+"yarn start"
 
 Se podrá visualizar que la API empieza a correr en el puerto 8800 por defecto.
 
 En la terminal de VS Code ingresar a la carpeta del frontend y ejecutar el siguiente comando
 
-yarn start
+"yarn start"
 
 Abra el siguiente link para visualizarlo http://localhost:3000 en el puerto localhost 3000 por defecto.
 
