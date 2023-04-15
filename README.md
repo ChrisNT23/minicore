@@ -20,16 +20,17 @@ yarn start
 Abra el siguiente link para visualizarlo http://localhost:3000 en el puerto localhost 3000 por defecto.
 
 ## Información del MVC
-1. https://create-react-app.dev/
-2. https://react.dev/
-3. https://www.mongodb.com/atlas/database
+1. [React](https://react.dev/)
+2. [Creación Proyectos React](https://create-react-app.dev/)
+3. [MongoDB](https://www.mongodb.com/atlas/database)
 4. [Express.js](https://expressjs.com/es/)
 
 ### Tutoriales
-1. https://www.youtube.com/watch?v=L1TjrOEG-u8
-2. https://www.youtube.com/watch?v=W1Kttu53qTg
-3. https://www.youtube.com/watch?v=lY6icfhap2o
-4. https://www.youtube.com/watch?v=1hpc70_OoAg
+1. [MERN stack](https://www.youtube.com/watch?v=L1TjrOEG-u8)
+2. [Aplicación CRUD](https://www.youtube.com/watch?v=W1Kttu53qTg)
+3. [Express](https://www.youtube.com/watch?v=lY6icfhap2o)
+4. [Curso Nodejs y Express](https://www.youtube.com/watch?v=1hpc70_OoAg)
+5. [Creación Colecciones MongoDB](https://www.youtube.com/watch?v=lWMemPN9t6Q)
 
 ### Contacto
 - christian.narvaez.torres@udla.edu.ec
