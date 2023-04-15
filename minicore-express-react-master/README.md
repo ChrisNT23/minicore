@@ -2,7 +2,7 @@
 
 Este proyecto fue creado con express como backend y react como frontend
 
-![image](https://user-images.githubusercontent.com/63675970/214198516-ecf5f150-e721-4278-abf9-da0e73e7d353.png)
+![image](https://user-images.githubusercontent.com/105956304/232253633-5d130949-a1ab-41e6-9ef3-d3de33f7b52d.png)
 
 
 ## Descripción del proyecto
@@ -43,5 +43,5 @@ El objetivo es encontrar en un rango de fechas los contratos pertenecientes a ca
 
 ### Contacto
 
-* caleb.naranjo@udla.edu.ec
-* calalbuja@gmail.com
+- christian.narvaez.torres@udla.edu.ec
+- crisarielnarvaezt@gmail.com
