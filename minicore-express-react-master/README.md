@@ -2,7 +2,7 @@
 
 Este proyecto fue creado con express como backend y react como frontend
 
-![image](https://user-images.githubusercontent.com/105956304/232253633-5d130949-a1ab-41e6-9ef3-d3de33f7b52d.png)
+![image](https://user-images.githubusercontent.com/105956304/232253698-3e68ceac-766e-4b02-86c1-9873e3ce436d.png)
 
 
 ## Descripción del proyecto
