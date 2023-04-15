@@ -2,6 +2,8 @@
 
 Este proyecto fue creado con express como backend y react como frontend
 
+![image](https://user-images.githubusercontent.com/105956304/232253314-98a781c2-92d0-4163-8149-fb2cd6afb500.png)
+
 ## Descripción del proyecto
 Se tienen dos tablas, una de contratos y otra de clientes, un cliente puede tener varios contratos. Los contratos tienen una fecha y un monto, que son los elementos principales que se utilizan para la lógica del proyecto.
 
